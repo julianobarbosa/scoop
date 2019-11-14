@@ -28,3 +28,13 @@ python --version # -> Python 2.7.x
 scoop reset python
 
 ```
+
+# vswhere
+```scoop
+scoop install vswhere
+```
+
+# GCC
+```scoop
+scoop install gcc
+```

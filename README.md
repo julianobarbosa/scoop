@@ -33,6 +33,10 @@ scoop reset python
 ```scoop
 scoop install vswhere
 ```
+# Cascadia-Code
+```scoop
+scoop install Cascadia-code
+```
 
 # GCC
 ```scoop
